@@ -10,7 +10,7 @@
 
 ## &#128195; Descrição
 
-Desafio do curso Explorer da Rocketseat de uma sorveteria fictícia chamada Space Cream. Onde foi feito com os conceitos aprendido em aula Mobile first, CSS Flexbox and CSS Grid. Você pode acessar o resultado final aqui: <a href="https://caroldutra.github.io/space-cream/">Space Cream</a>
+Desafio do curso Explorer da Rocketseat de uma sorveteria fictícia chamada Space Cream. Onde foi feito com os conceitos aprendido em aula Mobile first, CSS Flexbox and CSS Grid. Você pode acessar o resultado final aqui: <a href="https://spacecream-mobile.netlify.app">Space Cream</a>
 
 ## 🖊️ Design
 
